@@ -28,11 +28,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/agent_bookkeeping.js"
-    ],
-    "/software_development": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/software_development.js"
     ]
   },
   "ampFirstPages": []
