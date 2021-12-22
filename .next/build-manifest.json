@@ -29,10 +29,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/agent_bookkeeping.js"
     ],
-    "/next/dist/pages/_error": [
+    "/software_development": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/next/dist/pages/_error.js"
+      "static/chunks/pages/software_development.js"
     ]
   },
   "ampFirstPages": []

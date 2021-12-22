@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/agent_bookkeeping": "pages/agent_bookkeeping.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js"
+  "/software_development": "pages/software_development.js",
+  "/agent_bookkeeping": "pages/agent_bookkeeping.js"
 }

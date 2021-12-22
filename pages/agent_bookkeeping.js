@@ -1,6 +1,6 @@
 import styles from '../styles/Home.module.css'
-import Header from './components/hearder'
-import Footer from './components/footer'
+import Header from './components/agent_bookkeeping/hearder'
+import Footer from './components/agent_bookkeeping/footer'
 
 
 export default function AgentBookkeeping() {
