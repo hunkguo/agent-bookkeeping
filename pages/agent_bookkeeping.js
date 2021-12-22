@@ -20,7 +20,7 @@ export default function AgentBookkeeping() {
                 <h2 className="text-lg sm:text-xl text-white font-medium title-font mb-2">Shooting Stars</h2>
                 <p className="leading-relaxed text-base mb-4">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
                 <Link className="text-indigo-400 inline-flex items-center">Learn More
-                  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
                 </Link>
@@ -29,7 +29,7 @@ export default function AgentBookkeeping() {
                 <h2 className="text-lg sm:text-xl text-white font-medium title-font mb-2">The Catalyzer</h2>
                 <p className="leading-relaxed text-base mb-4">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
                 <Link className="text-indigo-400 inline-flex items-center">Learn More
-                  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
                 </Link>
@@ -38,7 +38,7 @@ export default function AgentBookkeeping() {
                 <h2 className="text-lg sm:text-xl text-white font-medium title-font mb-2">Neptune</h2>
                 <p className="leading-relaxed text-base mb-4">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
                 <Link className="text-indigo-400 inline-flex items-center">Learn More
-                  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
                 </Link>
@@ -47,7 +47,7 @@ export default function AgentBookkeeping() {
                 <h2 className="text-lg sm:text-xl text-white font-medium title-font mb-2">Melanchole</h2>
                 <p className="leading-relaxed text-base mb-4">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
                 <Link className="text-indigo-400 inline-flex items-center">Learn More
-                  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                  <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
                 </Link>
