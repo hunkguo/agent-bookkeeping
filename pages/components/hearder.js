@@ -1,5 +1,4 @@
 
-import Link from 'next/link'
 export default function Header() {
     return (
         <header class="text-gray-600 body-font">

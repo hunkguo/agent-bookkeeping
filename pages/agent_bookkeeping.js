@@ -2,17 +2,12 @@ import styles from '../styles/Home.module.css'
 import Header from './components/hearder'
 import Footer from './components/footer'
 
-import ParticlesBg from 'particles-bg'
 
 export default function AgentBookkeeping() {
     return (
         <>
         <Header/>
         
-        <ParticlesBg
-            type='color'
-            bg={{ width: "100%", position: "absolute", zIndex: "0", left: 0 }}
-          />
           
 
         <section class="text-gray-600 body-font">
