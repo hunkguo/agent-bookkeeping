@@ -25,6 +25,13 @@ export default function Home() {
           >
             <h2>老G软件工作室</h2>
           </a>
+          <p>
+          「Powered by  
+          <a
+            href="https://webify.cloudbase.net/"
+          > CloudBase Webify</a>」
+          </p>
+          
         </div>
       </main>
     </div>
