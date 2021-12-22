@@ -23,12 +23,12 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <Link href="https://nextjs.org/docs" className={styles.card}>
+          <Link href="https://nextjs.org/docs" className={styles.card} passHref>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
           </Link>
 
-          <Link href="https://nextjs.org/learn" className={styles.card}>
+          <Link href="https://nextjs.org/learn" className={styles.card} passHref >
             <h2>Learn &rarr;</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </Link>
@@ -36,6 +36,7 @@ export default function Home() {
           <Link
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
+            passHref
           >
             <h2>Examples &rarr;</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
@@ -44,6 +45,7 @@ export default function Home() {
           <Link
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
+            passHref
           >
             <h2>Deploy &rarr;</h2>
             <p>
@@ -54,6 +56,7 @@ export default function Home() {
           <Link
             href="/agent_bookkeeping"
             className={styles.card}
+            passHref
           >
             <h2>代理记账 &rarr;</h2>
             <p>
@@ -69,6 +72,7 @@ export default function Home() {
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
+          passHref
         >
           Powered by{' '}
           <span className={styles.logo}>
