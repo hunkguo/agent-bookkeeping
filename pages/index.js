@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -46,6 +45,17 @@ export default function Home() {
             <h2>Deploy &rarr;</h2>
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+
+          <a
+            href="/agent_bookkeeping"
+            className={styles.card}
+          >
+            <h2>代理记账 &rarr;</h2>
+            <p>
+            代理记账
             </p>
           </a>
         </div>

@@ -23,6 +23,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+    ],
+    "/agent_bookkeeping": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/agent_bookkeeping.js"
     ]
   },
   "ampFirstPages": []
