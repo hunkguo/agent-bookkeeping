@@ -3,10 +3,10 @@ import { motion } from "framer-motion"
 
 export default function Header() {
     return (
-        <header class="text-gray-400 body-font bg-gray-900">
+        <header class="text-gray-600 body-font">
             
             <motion.div
-              initial={{ opacity: 0, y: -50 }}
+              initial={{ opacity: 0, y: -200 }}
               animate={{ opacity: 1, y: 0 }}  
             >
             <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
@@ -14,9 +14,9 @@ export default function Header() {
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
                     <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
                 </svg>
-                <span class="ml-3 text-xl">老Z会计工作室</span>
+                <span class="ml-3 text-xl">张慧的职场</span>
                 </a>
-                <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
+                {/* <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
                 <a class="mr-5 hover:text-gray-900">服务</a>
                 <a class="mr-5 hover:text-gray-900">团队</a>
                 <a class="mr-5 hover:text-gray-900">合作伙伴</a>
@@ -28,7 +28,7 @@ export default function Header() {
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
-                </button>
+                </button> */}
             </div>
             </motion.div>
         </header>

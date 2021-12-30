@@ -3,9 +3,9 @@ import { motion } from "framer-motion"
 export default function Footer() {
     return (  
         <>
-        <footer class="text-gray-400 body-font bg-gray-900">
+        <footer class="text-gray-600 body-font">
             <motion.div
-              initial={{ opacity: 0, y: 50 }}
+              initial={{ opacity: 0, y: 200 }}
               animate={{ opacity: 1, y: 0 }}  
             >
             <div class="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
