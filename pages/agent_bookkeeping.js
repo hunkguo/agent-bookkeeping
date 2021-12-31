@@ -141,6 +141,38 @@ export default function AgentBookkeeping() {
         </div>
       </section>
 
+        <section class="text-gray-600 body-font overflow-hidden">
+          <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-wrap -m-12">
+              <div class="p-12 md:w-1/2 flex flex-col items-start">
+                <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">Knowledges</span>
+                <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">如何看待所谓的税务筹划，分享17个提醒！</h2>
+                <p class="leading-relaxed mb-8">提醒一：做好税务筹划，财务不仅是需要深刻了解税收政策、税法、其他相关的一些法律法规等，还要与当地税务局沟通，了解相关税务处理时的征管口径。有些人拿到税收优惠政策，会生搬硬套地运用，结果漏洞百出、麻烦不断。</p>
+                <div class="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
+                  <a class="text-indigo-500 inline-flex items-center" href="/How_to_view_the_so-called_tax_planning">Learn More
+                    <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M5 12h14"></path>
+                      <path d="M12 5l7 7-7 7"></path>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+              <div class="p-12 md:w-1/2 flex flex-col items-start">
+                <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">Knowledges</span>
+                <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">2021各行业最新“预警税负率”大全</h2>
+                <p class="leading-relaxed mb-8">金税三期施行以来税收评估的六大预警指标，建议会计人员学习收藏！</p>
+                <div class="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
+                  <a class="text-indigo-500 inline-flex items-center" href="/2021_warning_tax_rate">Learn More
+                    <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M5 12h14"></path>
+                      <path d="M12 5l7 7-7 7"></path>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
         <Footer/>
         </>
     
