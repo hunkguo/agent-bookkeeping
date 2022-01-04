@@ -21,17 +21,12 @@ export default function Footer() {
                     </svg>
                     <span class="ml-3 text-xl">18237715216</span>
                 </a>
-                <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2022 <a href="https://twitter.com/knyttneve" class="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@hunk</a>
+                <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
+                    <a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2022000009号-1</a>
                 </p>
                 
                 <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-                <a
-                    href="https://webify.cloudbase.net/"
-                > 「Powered by CloudBase Webify」</a>
-                </span>
-                <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-                    <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a>
-                    <a href="https://beian.miit.gov.cn/" target="_blank">粤B2-20****59-1</a>
+                    <a href="https://webify.cloudbase.net/"> 「Powered by CloudBase Webify」</a>
                 </span>
 
             </div>
