@@ -29,6 +29,11 @@ export default function Footer() {
                     href="https://webify.cloudbase.net/"
                 > 「Powered by CloudBase Webify」</a>
                 </span>
+                <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+                    <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a>
+                    <a href="https://beian.miit.gov.cn/" target="_blank">粤B2-20****59-1</a>
+                </span>
+
             </div>
             </motion.div>
         </footer>
