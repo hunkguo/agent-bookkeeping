@@ -2,7 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/agent_bookkeeping": "pages/agent_bookkeeping.js",
-  "/2021_warning_tax_rate": "pages/2021_warning_tax_rate.js"
+  "/": "pages/index.js"
 }

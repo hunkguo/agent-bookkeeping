@@ -21,9 +21,14 @@ export default function Footer() {
                     </svg>
                     <span class="ml-3 text-xl">18237715216</span>
                 </a>
-                <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-                    <a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2022000009号-1</a>
+                <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4 flex flex-nowrap">
+                                    <a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2022000009号-1</a>   
                 </p>
+                <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4 flex flex-nowrap">
+                    <img src="/images/gonganbeian.png" alt="" />
+                    <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41130302000501">豫公网安备 41130302000501号</a>
+                </p>
+         
                 
                 <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
                     <a href="https://webify.cloudbase.net/"> 「Powered by CloudBase Webify」</a>
