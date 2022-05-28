@@ -159,10 +159,10 @@ export default function AgentBookkeeping() {
               </div>
               <div class="p-12 md:w-1/2 flex flex-col items-start">
                 <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">Knowledges</span>
-                <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">“买一送一”如何做账？</h2>
-                <p class="leading-relaxed mb-8">对于企业来说，买一送一作为一种促销方式，在促销时更是不可或缺。此类行为的发票开具方式和会计处理将直接影响税务机关的定义是否符合目视检查。对于销售，企业需要缴纳增值税和企业所得税。那么应该怎样做才能避免税务公司定义的差异呢？</p>
+                <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">丁元英对股市的思考摘录</h2>
+                <p class="leading-relaxed mb-8">《天道》这部剧改变自作家豆豆的《遥远的救世主》一书，电视剧情节经过几次的删减，并不能完全的体现书中的精华言语。读过这本书的朋友大多都说书写的很好，很不错，对于喜欢炒股的朋友很多人都读过这本书，这本书中的很多的对话都比较经典。</p>
                 <div class="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
-                  <a class="text-indigo-500 inline-flex items-center" href="http://blog.fatax.cn/2022/01/05/Buy-one-get-one-free-how-do-you-bill-and-do-the-billing/">Learn More
+                  <a class="text-indigo-500 inline-flex items-center" href="http://blog.fatax.cn/2022/05/28/An-excerpt-from-Ding-Yuanying's-thoughts-on-the-stock-market-cn/">Learn More
                     <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M5 12h14"></path>
                       <path d="M12 5l7 7-7 7"></path>
